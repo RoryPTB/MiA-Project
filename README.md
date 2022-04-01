@@ -1,5 +1,5 @@
 # MiA-Project
-This repository contains the code for my MiA project: <b>"Ranking CMIP6 Models with Statistical Distances"<\b>.
+This repository contains the code for my MiA project: <b>"Ranking CMIP6 Models with Statistical Distances"</b>.
 
 The first three folders contain the code for the:
 - Importation of each climate model
